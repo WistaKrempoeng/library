@@ -1,0 +1,51 @@
+{
+  "users": {
+    "Kyle": {
+      "email": "kyle@gmai.com",
+      "password": "1b433c9fbca88b3b8c0d1a49424f65cd07b098e5fc2607f3f924051559a483c3"
+    }
+  },
+  "books": [
+    {
+      "id": 1,
+      "title": "Negeri 5 Menara",
+      "author": "Ahmad Fuadi",
+      "year": "2009",
+      "stock": 4,
+      "category": "Novel"
+    },
+    {
+      "id": 2,
+      "title": "Filosofi Teras",
+      "author": "Henry Manampiring",
+      "year": "2018",
+      "stock": 5,
+      "category": "Pengembangan Diri"
+    },
+    {
+      "id": 3,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "year": "2020",
+      "stock": 3,
+      "category": "Keuangan"
+    },
+    {
+      "id": 4,
+      "title": "Bumi Manusia",
+      "author": "Pramoedya Ananta Toer",
+      "year": "1980",
+      "stock": 2,
+      "category": "Sastra"
+    },
+    {
+      "id": 5,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": "2018",
+      "stock": 6,
+      "category": "Produktivitas"
+    }
+  ],
+  "loans": []
+}
